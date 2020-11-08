@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif
+}
+
+h1{
+  text-align: center;
+  color:#2480EF;
+  margin-top: 10%;
+}
+
+
+.input{
+  top: 180px;
+  position: absolute;
+  left: 35%;
+  width: 280px;
+  transition: 0.5s;
+}
+
+.input-text{
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid rgba(0,0,0,0.35);
+  outline: none;
+  background: rgba(0,0,0,0.05);
+  
+}
+.button{
+  width: 107%;
+  padding: 10px 40px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  margin-top: 7.5px;
+  background: #2480EF;
+  border: 0;
+  outline: none;
+  border-radius:3px;
+  color: white;
+  font-weight: bold;
+}
+
+span{
+  color:#777;
+  font-size: 12px;
+  position: absolute;
+  top: 210px;
+  left:82px;
+}
+
+.button-1{
+  background: #349E16;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin-top: 3px;
+  border: 0;
+  outline: none;
+  border-radius:3px;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 340px;
+  left: 400px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+#checkbox-1{
+  color:#777;
+  font-size: 12px;
+  position: absolute;
+  top: 245px;
+  left:82px;
+}
+
+.button #1
+{
+  position: absolute;
+  top:200px;
+}
